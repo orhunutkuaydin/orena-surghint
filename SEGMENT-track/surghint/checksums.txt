@@ -1,0 +1,30 @@
+# SHA-256 values, relative to weights/.
+# runtime/qwen/tensor-content is the canonical tensor digest used by surghint.weights.
+bc6269b1d9fa254a53e526d5eee4e14a0b15d3b5ad4a81954021fff32dba0660  custom/rfdetr-large.pth
+35867d3280d0f147b77790a109722080195e3b932eb10ff51addfe4b430fc950  custom/qwen-lora/adapter_model.safetensors
+d0c86d0bde77afa460d00a95c250008a1af495694aa4a4086ce15bb5c4266872  custom/qwen-lora/adapter_config.json
+063b38b4de10b7c2fbe61312cd3b25f1266542a1bce8a63886c71226b318a172  custom/qwen-lora/config.json
+11fd837fb7bf25cf9babd8ca0a8e981e6549db7f0dee4470f9249e1a0cc31ed6  custom/qwen-lora/generation_config.json
+d89ef49ce9cd37fbf510158e13c1ef063d9286411c1ec9049932dbe0487143b1  custom/qwen-lora/processor_config.json
+09564f0b57b433b55d536630be3044b4183dbe04d0cbc7b1e9b1154db3671b0b  custom/qwen-lora/tokenizer_config.json
+06b9509352d2af50381ab2247e083b80d32d5c0aba91c272ca9ff729b6a0e523  custom/qwen-lora/tokenizer.json
+e84f32a23fdda27689f868aa4a1a5621f41133e51a48d7f3efcbea2839574259  custom/qwen-lora/chat_template.jinja
+69db4eb7196bc8190813231b3018ca05d8c2e3abc7b1af19d55c157af44a9d9c  base/qwen3.6-27b/config.json
+e70c136c1b78ddc1fb0905bac8e733a4dc448d4f852a5dd75143fffc70be550e  base/qwen3.6-27b/generation_config.json
+5f21d4e349aef6c74bedef7b3835dc8c11a16dd5ce72f4437e2284f1e83736e9  base/qwen3.6-27b/model-00001-of-00015.safetensors
+03de44dc7e933025498d72f8d7ea32d5cde16eb7a85b35ff1fa49a737f4b2242  base/qwen3.6-27b/model-00002-of-00015.safetensors
+5c3a68304dabeaa5a0eb70a5e383d2b8134997ef6d5c1e8afdcd236091c847f2  base/qwen3.6-27b/model-00003-of-00015.safetensors
+ba8b0849cb4c4c97e674709bfe56a9c008d7563a68ac57120ceb2855a73a9944  base/qwen3.6-27b/model-00004-of-00015.safetensors
+a5abc1d5e9583409193e2cd58a671a4ed98467a6eaf883cd4377e3cc02021c22  base/qwen3.6-27b/model-00005-of-00015.safetensors
+160d914e2e4704a401a3eab9e9eec3380e5723a35981c9169bedfb82ea32e6d6  base/qwen3.6-27b/model-00006-of-00015.safetensors
+0bcd0ce28c7d2cc6f5ab2c21902cd032fec0cc5f29e0897e3bb0967add388e47  base/qwen3.6-27b/model-00007-of-00015.safetensors
+584a0ed8018d3b19ce8e533d08a460454650027901be6323b50b591da143dca6  base/qwen3.6-27b/model-00008-of-00015.safetensors
+e7e3e1a17a2673340eb6bba95c3c6f07b12e7746ee738dde56551cbde27656f5  base/qwen3.6-27b/model-00009-of-00015.safetensors
+e8934789f4742c11da88f937da84bdbb8764c8a7f7ebe9e7b056bcbd41b14285  base/qwen3.6-27b/model-00010-of-00015.safetensors
+44e8fe06d2d609bf20b16b1d2f42348ca2dc99179721f76035ff50db678f9a8a  base/qwen3.6-27b/model-00011-of-00015.safetensors
+33c5d7d18e1b3f661334dff736fc7d00561f1f1bb9d2970c669b40d2e582974e  base/qwen3.6-27b/model-00012-of-00015.safetensors
+68db2ebb03231238c2a114f3642df967a970a1d96b029adc427838cb5cf7f27a  base/qwen3.6-27b/model-00013-of-00015.safetensors
+26c114fb6d5d4131ab227552d489d7a97c8c958a9ed94f6d3d1584f6cfe4b9fb  base/qwen3.6-27b/model-00014-of-00015.safetensors
+b84b5b1315e865c9a19a444045d422a73e3e2e31ce3766797cffd3507c68c9c9  base/qwen3.6-27b/model-00015-of-00015.safetensors
+a8ad2c26fb707ff8c245806315b03e3b4b74595528492423af5dae0ce39b4d9b  base/qwen3.6-27b/model.safetensors.index.json
+982de30050d5e1886f209cc18eb25db421bccb89506b6563c19f4de17cf0343e  runtime/qwen/tensor-content

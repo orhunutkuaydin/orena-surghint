@@ -1,0 +1,15 @@
+# Source revisions
+c202236235762e1c871ad0ccb60c8ee5ba337b9a  Qwen/Qwen3.5-9B
+6876159a11b4df116f30f667f8c9888617df0751  facebookresearch/dinov3
+6ad930bb85f5d10417ebe979780132a9a466a8e0  impiga/Plain-DETR
+
+# SHA-256 checksums
+# Original Meta filenames:
+# dinov3_vit7b16_pretrain_lvd1689m-a955f4ea.pth -> dinov3_vit7b16_backbone.pth
+# dinov3_vit7b16_coco2017_detr_head-b0235ff7.pth -> dinov3_vit7b16_detector.pth
+a955f4ea3bec4fcd666bf363630da4386383069b482c8a927e17a3e1154965b7  weights/base/dinov3/dinov3_vit7b16_backbone.pth
+b0235ff7ea0a037b521f58eb7915d3a022c75319e93307dd48dfc5fd85c6f031  weights/base/dinov3/dinov3_vit7b16_detector.pth
+8603391bfe94a9a426ac3a56b92b1df3c1aa937d2059e68750923ca1f520c892  weights/custom/qwen-lora/adapter_model.safetensors
+0c3ce64c5286cc62a1b915128cf40856ef3518d5db5e66dde44c26e9c57f884c  weights/custom/qwen-lora/adapter_config.json
+6982def5f80d23333ec7e1a1b376b31dcdf02c8784c65e14f4862f31eac7d45d  weights/custom/plain-detr-head.pth
+df29e34ecee1502fb108c29840cf370ddb4b45748552538058d7cba5ff758ae4  weights/runtime/detector/serving_state.pth
