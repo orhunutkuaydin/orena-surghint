@@ -15,7 +15,7 @@ SurgHint is a surgical visual question answering system for the [ORena FOCUS Cha
 | **FRAME** | One surgical image and a question | **DINOv3 7B** + Plain-DETR detections provide text hints to Qwen3.5-9B | [Setup and inference](FRAME-track/README.md#inference) · [Training](FRAME-track/TRAINING.md) |
 | **SEGMENT** | A surgical clip and a question | RF-DETR-L tracking provides 24 selected frames and text hints to Qwen3.6-27B | [Setup and inference](SEGMENT-track/README.md#inference) · [Training](SEGMENT-track/TRAINING.md) |
 
-FRAME targets one 24 GB GPU; SEGMENT recommends one 80 GB GPU. **Use a separate Python environment for each track.**
+Our FRAME solution runs on one 24 GB GPU, for SEGMENT track we recommend one 80 GB GPU.
 
 ## Released checkpoints
 
