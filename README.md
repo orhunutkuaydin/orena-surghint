@@ -34,7 +34,7 @@ Qwen base weights and FRAME's frozen **DINOv3 7B (ViT-7B/16)** backbone are obta
 
 The [SurgHint annotation archive](https://zenodo.org/records/22769709) contains bounding-box labels and source-file mappings for selected **HeiCo** and **Surgical Gauze** frames. Images and videos are obtained separately from the original dataset sources.
 
-## Licence
+## License
 
 Project-authored source code is licensed under [Apache-2.0](LICENSE). Third-party code retains its original licences and notices. Model checkpoints have separate, component-specific licences documented on [Hugging Face](https://huggingface.co/OUAydin/ORena-SurgHint-solution).
 
